@@ -3,7 +3,7 @@
 I'm a dedicated software developer with a passion for crafting innovative solutions.
 
 ## 👀 About Me
-- 💻 Specializing in HTML, CSS, Bootstrap, Tailwind CSS, React.js,Git,GitHub,WordPress,SASS,Next.js etc.
+- 💻 Specializing in HTML, CSS, Bootstrap, Tailwind CSS, SASS, React.js, Git, GitHub, WordPress, Next.js etc.
 - 🌱 Continuously exploring new technologies and refining skills in full-stack development.
 - 🔍 Delving deep into algorithms, data structures, and software design patterns.
 - 🤝 Open to collaborating on exciting projects.
