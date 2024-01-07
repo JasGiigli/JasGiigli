@@ -15,7 +15,7 @@ I'm a dedicated software developer with a passion for crafting innovative soluti
 ## 💡 How to Connect
 Feel free to reach out through:
 - 📧 Email: overview.jjj@gmail.com
-- 💼 Website: jasgiigli.vercel.app
+- 💼 Website: https://jasgiigli.vercel.app
 - 🐦 Twitter: https://twitter.com/jasgiigli
 - 🌐 Personal Website/Blog:https://jasgiigli.github.io
 
